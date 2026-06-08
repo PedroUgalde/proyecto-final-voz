@@ -1,0 +1,15 @@
+# Dependencias del proyecto (entorno: K-means-clustering)
+numpy
+scipy
+matplotlib
+scikit-learn
+librosa
+soundfile
+torch
+kagglehub
+flask
+jupyter
+notebook
+jupyterlab
+ipykernel
+ipywidgets
